@@ -806,7 +806,7 @@ section {
   color: #fff;
 }
 
-.contact .php-email-form {
+.contact .php-emailform {
   width: 100%;
   padding: 30px;
   background: #fff;
@@ -873,15 +873,15 @@ section {
   font-size: 14px;
 }
 
-.contact .php-email-form input {
+.contact .php-emailform input {
   height: 44px;
 }
 
-.contact .php-email-form textarea {
+.contact .php-emailform textarea {
   padding: 10px 12px;
 }
 
-.contact .php-email-form button[type="submit"] {
+.contact .php-emailform button[type="submit"] {
   background: #149ddd;
   border: 0;
   padding: 10px 24px;
@@ -890,7 +890,7 @@ section {
   border-radius: 4px;
 }
 
-.contact .php-email-form button[type="submit"]:hover {
+.contact .php-emailform button[type="submit"]:hover {
   background: #37b3ed;
 }
 
