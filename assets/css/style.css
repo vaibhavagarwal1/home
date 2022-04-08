@@ -878,7 +878,7 @@ section .container {
   color: #fff;
 }
 .contact .php-emailform button[type="submit"] {
-  background: #149ddd;
+  background: #18d26e;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -887,7 +887,7 @@ section .container {
 }
 
 .contact .php-emailform button[type="submit"]:hover {
-  background: #37b3ed;
+  background: #18d26e;
 }
 
 @-webkit-keyframes animate-loading {
